@@ -9,4 +9,6 @@ toDo: subir el codigo
 
 toDo: subir esquemático
 
+##Imagen de referencia
+
 ![ServoLDR](./ServoLDR.jpg)
