@@ -9,4 +9,4 @@ toDo: subir el codigo
 
 toDo: subir esquemático
 
-![servoLDR](./servoLDR.jpg)
+![servoLDR] (./servoLDR.jpg)
